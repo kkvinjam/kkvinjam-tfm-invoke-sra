@@ -1,0 +1,4 @@
+/tfstate*
+/modules/aws-security-reference-architecture-examples
+/.terraform 
+/.terraform.lock.hcl
